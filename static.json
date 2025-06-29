@@ -1,0 +1,7 @@
+{
+  "root": "/",
+  "routes": {
+    "/": "love.html"
+  }
+}
+Add static.json to set love.html as default page
